@@ -1,4 +1,4 @@
-<p align="center"><img src="Gemini_Generated_Image_z2b66az2b66az2b6.jpeg" width="600" alt="Screenshot"></p>
+<p align="center"><img src="assets/Gemini_Generated_Image_z2b66az2b66az2b6.jpeg" width="600" alt="Screenshot"></p>
 
 # /senate
 A Claude skill that stress-tests any decision by running it through a simulated 100-seat Senate: committee review, floor debate, amendments, a substitute, cloture (filibuster), and a final roll call. The Senate both debates and votes, and it can change what you asked for.
